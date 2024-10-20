@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The impacts of the COVID-19 pandemic on China's green bond market"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
