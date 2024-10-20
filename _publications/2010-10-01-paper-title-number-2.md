@@ -7,7 +7,7 @@ excerpt: #'The impacts of COVID-19 on China's green bond market are investigated
 date: 2021-10
 venue: 'Finance Research Letters'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://doi.org/10.1016/j.frl.2021.101948)'
+paperurl: '[Link](https://doi.org/10.1016/j.frl.2021.101948)'
 citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
