@@ -29,13 +29,15 @@ Publications
 
 Teaching
 ======
-* 2024 Fall
+* 2024 Fall, Stony Brook University
   * Instructor, Intermediate Microeconomics
-* 2024 Summer
+* 2024 Summer, Stony Brook University
   * Instructor, Environmental and Natural Resource Economics (online)
-* 2023 Fall
+* 2023 Fall, Stony Brook University
   * Instructor, Intermediate Microeconomics
-* 2021 Fall - 2023 Spring
+* 2021 Fall - 2023 Spring, Stony Brook University
+  * Teaching assistant
+* 2018 Fall - 2019 Spring, Shandong University
   * Teaching assistant
 
 Other experiences
@@ -51,12 +53,3 @@ Skills
 * Software: Stata, Matlab, LATEX
 
 
-
-  
-
-  
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
