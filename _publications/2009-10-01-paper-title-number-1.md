@@ -3,11 +3,11 @@ title: "Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and De
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: #''
+excerpt: #
 date: Accepted
 venue: 'Journal of Regional Science'
 slidesurl: #
-paperurl: #'[http://academicpages.github.io/files/paper2.pdf](https://doi.org/10.1016/j.frl.2021.101948)'
+paperurl: #
 citation: #
 ---
 
