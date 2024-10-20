@@ -11,53 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Stony Brook University, New York, 2026 (expected)
+* M.A. in Economics, Shandong University, Jinan, China, 2020
+* B.A. in Accounting, Southwestern University of Finance and Economics, Chengdu, China, 2016
 
-Work experience
+Working papers
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Knowledge: Burden or Gift of Innovation?
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* How does “Green Factory” certification influence firms’ green innovation performances in China? (With Jiawei Chen and Kai Wei)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Yi X, Bai C, Lyu S, Dai L. The impacts of the COVID-19 pandemic on China’s green bond market. Finance Research Letters. 2021 Oct.
+
+* Hou L, Liang P, Lyu S. Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and Development Strategy of Housing Sector in China (Accepted at Journal of Regional Science).
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2024 Fall
+  * Instructor, Intermediate Microeconomics
+* 2024 Summer
+  * Instructor, Environmental and Natural Resource Economics (online)
+* 2023 Fall
+  * Instructor, Intermediate Microeconomics
+* 2021 Fall - 2023 Spring
+  * Teaching assistant
+
+Other experiences
+======
+* 2024 July
+  * Speaker at 35th Game Theory Conference, Stony Brook
+* 2023 July
+  * Administrator of 34th Game Theory Conference, Stony Brook
+  
+Skills
+======
+* Language: English (fluent); Mandarin (native)
+* Software: Stata, Matlab, LATEX
+
+
+
+  
+
+  
+
   
 Service and leadership
 ======
