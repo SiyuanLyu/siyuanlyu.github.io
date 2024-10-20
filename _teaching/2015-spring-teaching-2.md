@@ -2,7 +2,7 @@
 title: "Instructor, Environmental and Natural Resource Economics (online)"
 collection: teaching
 type: "Undergraduate online course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: #/teaching/2015-spring-teaching-1
 venue: "Stony Brook University"
 date: 2024 Summer
 location: #"City, Country"
