@@ -1,5 +1,5 @@
 ---
-title: "Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and Development Strategy of Housing Sector in China"
+title: "Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and Development Strategy of Housing Sector in China"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
