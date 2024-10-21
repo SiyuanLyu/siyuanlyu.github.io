@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fifth year Ph.D. student from [Department of Economics](https://www.stonybrook.edu/commcms/economics/), [Stony Brook University](https://www.stonybrook.edu/). My research interests include innovation and knowledge, applied game theory, and development economics.
 
-#You can find my CV here: [Curriculum Vitae](files/SiyuanLyu_CV2024.pdf).
+You can find my CV here: [Curriculum Vitae](files/SiyuanLyu_CV2024.pdf).
 
 [Email](mailto:siyuan.lyu@stonybrook.edu) 
 
