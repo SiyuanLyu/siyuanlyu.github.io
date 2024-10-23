@@ -12,4 +12,9 @@ This is an online and asynchronous course.
 
 Syllabus
 ======
+[Syllabus](/files/ECO373_Syllabus_24Summer.pdf)
+
+Evaluation
+======
+[Course evaluations](/files/2024-Summer-Eval.pdf)
 
