@@ -11,4 +11,7 @@ location: # "City, Country"
 
 Syllabus
 ======
+[Syllabus](/files/Syllabus_ECO303_02_24Fall (1).pdf)
+
+
 
