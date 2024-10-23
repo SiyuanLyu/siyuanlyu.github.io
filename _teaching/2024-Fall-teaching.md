@@ -8,7 +8,6 @@ date: 2024-08-26
 location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Syllabus
 ======
