@@ -33,10 +33,10 @@ Teaching
   * Instructor, Undergraduate Intermediate Microeconomics
 * 2024 Summer, Stony Brook University
   * Instructor, Undergraduate Environmental and Natural Resource Economics (online)
-* 2023 Fall, Stony Brook University
+* 2024 Spring, Stony Brook University
   * Instructor, Undergraduate Intermediate Microeconomics
-* 2021 Fall - 2023 Spring, Stony Brook University
-  * Teaching assistant, Undergraduate Intermediate Microeconomics and Macroeconomics, Graduate Microeconomics
+* 2021 Fall - 2023 Fall, Stony Brook University
+  * Teaching assistant/Grader, Undergraduate Intermediate Microeconomics and Macroeconomics, Graduate Microeconomics
 * 2018 Fall - 2019 Spring, Shandong University
   * Teaching assistant, Graduate Microeconomics
 
