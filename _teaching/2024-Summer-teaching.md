@@ -8,7 +8,7 @@ date: 2024-07-10
 location: #"City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an online and asynchronous course.
 
 Syllabus
 ======
