@@ -25,7 +25,7 @@ Publications
 ======
 * Yi X, Bai C, Lyu S, Dai L. The impacts of the COVID-19 pandemic on China’s green bond market. Finance Research Letters. 2021 Oct.
 
-* Hou L, Liang P, Lyu S. Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and Development Strategy of Housing Sector in China (Accepted at Journal of Regional Science).
+* Hou L, Liang P, Lyu S. Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and Development Strategy of Housing Sector in China (Accepted at Journal of Regional Science).
 
 Teaching
 ======
@@ -36,7 +36,7 @@ Teaching
 * 2024 Spring, Stony Brook University
   * Instructor, Undergraduate Intermediate Microeconomics
 * 2021 Fall - 2023 Fall, Stony Brook University
-  * Teaching assistant/Grader, Undergraduate Intermediate Microeconomics and Macroeconomics, Graduate Microeconomics
+  * Teaching assistant, Undergraduate Intermediate Microeconomics and Macroeconomics, Graduate Microeconomics
 * 2018 Fall - 2019 Spring, Shandong University
   * Teaching assistant, Graduate Microeconomics
 
