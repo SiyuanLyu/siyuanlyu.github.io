@@ -13,5 +13,7 @@ Syllabus
 ======
 [Syllabus](/files/Syllabus_ECO303_02_24Fall.pdf)
 
-
+Evaluation
+======
+[Course evaluations](/files/2025-Fall-Eval.pdf)
 
