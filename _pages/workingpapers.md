@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<a href="/files/Research Statement.docx">Research Statement</a><br>
 {% include base_path %}
 
 Knowledge: Burden or Gift of Innovation? (Job Market Paper)
