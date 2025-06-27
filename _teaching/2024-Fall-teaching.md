@@ -8,12 +8,7 @@ date: 2024-08-26
 location: # "City, Country"
 ---
 
-
-Syllabus
-======
 [Syllabus](/files/Syllabus_ECO303_02_24Fall.pdf)
 
-Evaluation
-======
 [Course evaluations](/files/2024-Fall-Eval.pdf)
 
