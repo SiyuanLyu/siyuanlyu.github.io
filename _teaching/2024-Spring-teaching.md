@@ -1,7 +1,7 @@
 ---
 title: "Instructor, Intermediate Microeconomics"
 collection: teaching
-type: "Undergraduate online course"
+type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching
 venue: "Stony Brook University"
 date: 2024-1-1
