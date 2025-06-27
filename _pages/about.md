@@ -12,5 +12,7 @@ I'm a Ph.D. candidate in Economics at [Department of Economics](https://www.ston
 
 [Curriculum Vitae](/files/SiyuanLyu_CV2025.pdf)
 
+[中文简历/Curriculum Vitae (in Chinese)](/files/CV.pdf)
+
 Email: [siyuan.lyu@stonybrook.edu](mailto:siyuan.lyu@stonybrook.edu) 
 
