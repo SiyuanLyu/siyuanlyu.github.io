@@ -1,5 +1,5 @@
 ---
-title: "Instructor, Environmental and Natural Resource Economics (online)"
+title: "Instructor, Environmental and Natural Resource Economics (Online)"
 collection: teaching
 type: "Undergraduate online course"
 permalink: /teaching/2024-summer-teaching
