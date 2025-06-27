@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching
 venue: "Stony Brook University"
-date: 2024-08-26
+date: "2024 Fall"
 location: # "City, Country"
 ---
 
