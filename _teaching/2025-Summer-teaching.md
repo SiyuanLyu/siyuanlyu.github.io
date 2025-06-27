@@ -4,11 +4,12 @@ collection: teaching
 type: "Undergraduate online course"
 permalink: /teaching/2025-summer-teaching
 venue: "Stony Brook University"
-date: "2025 Summer"
+date: 2025-5-31
+semester: 2025 Summer
 location: #"City, Country"
 ---
 
 This is an online and asynchronous course.
 
-[Syllabus](/files/ECO355_AMS335_Syllabus_Summer2025.pdf.pdf)
+[Syllabus](/files/ECO355_AMS335_Syllabus_Summer2025.pdf)
 
