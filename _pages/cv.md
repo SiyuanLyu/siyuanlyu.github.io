@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Working Papers"
+permalink: /workingpapers/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,47 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Knowledge: Burden or Gift of Innovation? (Job Market Paper)
 ======
-* Ph.D in Economics, Stony Brook University, New York, 2026 (expected)
-* M.A. in Economics, Shandong University, Jinan, China, 2020
-* B.A. in Accounting, Southwestern University of Finance and Economics, Chengdu, China, 2016
+(Presented at 2023 Game Theory Conference, 2025 EEA, 2025 CES and Shandong University)
+Abstract: The accumulation of knowledge is crucial for the development of scientific innovation. However, in recent years, despite a significant increase in the volume of research in both academia and industry, there has been a noticeable decline in breakthrough innovations. Some studies suggest that the accumulation of knowledge leads to increased learning costs, prolonging the innovation process, promoting teamwork, and narrowing individual research fields. In contrast, other studies argue that the innovation process essentially involves the recombination of existing knowledge, akin to hybridization in biology, thereby suggesting that knowledge accumulation can accelerate innovation. This paper examines the role of knowledge accumulation in the innovation process by distinguishing between the accumulation of general field knowledge and the specific knowledge directly referenced in individual innovations. Through a theoretical model, followed by Arora et al.(2021), this paper discusses how knowledge accumulation can reduce innovation costs, while directly referencing existing knowledge increases the difficulty of innovation. Knowledge accumulation encourages citations, which exhibit a substitute effect with citations in the innovation cost equation, thereby mitigating the negative impact of citations on innovation. Additionally, by utilizing data compiled by Park et al.(2023) and NBER Patent Project database, this paper provides empirical evidence showing that field-level knowledge reserves promote both innovation and citations, whereas direct citations constrain innovation. Thus, the observed decline in innovation is more attributable to citation behavior rather than to the accumulation of knowledge.
 
-Working papers
+Hard Problems: Young Math Talents in the U.S. and Their Choices of Higher Education
 ======
-* Knowledge: Burden or Gift of Innovation?
-  
-* How does “Green Factory” certification influence firms’ green innovation performances in China? (With Jiawei Chen and Kai Wei)
+(Presented at \textit{2025 ICEE PSU Altoona})
+Abstract: Mathematics competitions like the USA Mathematical Olympiad (USAMO) and the William Lowell Putnam Mathematical Competition (Putnam) are seen as early-stage talent selections, providing winners access to prestigious institutions and career advantages. However, their long-term impact on academic trajectories remains unclear. This study examines whether such competitions effectively predict future academic decisions and how receiving different levels of honors varies in these effects. Using a dataset of USAMO and Putnam awardees from 1985 to 2010, collected through both manual research and automated matching, we are able to analyze
+their higher education and career paths. Nearly half of the USAMO awardees obtained a Ph.D. in mathematics-related STEM fields such as Pure Math, Applied Math, Physics, Computer Science, and Economics, compared to 58.49% of the Putnam awardees. Furthermore, USAMO gold medalists were significantly more likely than Honorable Mention recipients to pursue higher degrees in these fields and remain in academia. While the pattern in Putnam awardees remain ambiguous, in terms of both their absolute performances and relative rankings within colleges. These results contribute to discussions on talent screening through competitive challenges, suggesting that while high-level mathematics competitions identify strong academic candidates, psychological factors and institutional influences shape long-term career outcomes.
 
-Publications
+How does “Green Factory” Certification Influence Firms’ Green Innovation Performances in China? (With Jiawei Chen and Kai Wei)
 ======
-* Yi X, Bai C, Lyu S, Dai L. The impacts of the COVID-19 pandemic on China’s green bond market. Finance Research Letters. 2021 Oct.
-
-* Hou L, Liang P, Lyu S. Stay Cautious in Upbeat Time: Local Leaders’ Famine Experience and Development Strategy of Housing Sector in China (Accepted at Journal of Regional Science).
-
-Teaching
-======
-* 2024 Fall, Stony Brook University
-  * Instructor, Undergraduate Intermediate Microeconomics
-* 2024 Summer, Stony Brook University
-  * Instructor, Undergraduate Environmental and Natural Resource Economics (online)
-* 2024 Spring, Stony Brook University
-  * Instructor, Undergraduate Intermediate Microeconomics
-* 2021 Fall - 2023 Fall, Stony Brook University
-  * Teaching assistant, Undergraduate Intermediate Microeconomics and Macroeconomics, Graduate Microeconomics
-* 2018 Fall - 2019 Spring, Shandong University
-  * Teaching assistant, Graduate Microeconomics
-
-Other experiences
-======
-* 2024 July
-  * Speaker at 35th Game Theory Conference, Stony Brook
-* 2023 July
-  * Administrator of 34th Game Theory Conference, Stony Brook
-  
-Skills
-======
-* Language: English (fluent); Mandarin (native)
-* Software: Stata, Matlab, LATEX
-
-
+Abstract: Staring from 2017, "Green Factory" policy has been introduced as a policy tool to promote environmental innovation and sustainable manufacturing in China. However, limited empirical evidence on its impact has been investigated. This paper constructs a firm-level dataset to check the effect of being labeled as ``Green Factory" on firms' performances on green innovations. Employing different empirical methods, we find that being listed as a Green Factory results in more green patents in numbers, more investment in green innovation, and higher efficiency both in innovation creation and transfer. We also show that this effect is driven by smaller sized firms and non-SOE firms, which provides a discussion on this heterogeneity.
