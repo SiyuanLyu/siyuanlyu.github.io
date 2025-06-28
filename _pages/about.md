@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Economics at [Department of Economics](https://www.stonybrook.edu/commcms/economics/), [Stony Brook University](https://www.stonybrook.edu/). My research interests include Innovation, Applied Microeconomics, and Development Economics. I am on the 2025-26 Job Market.
+I'm a Ph.D. candidate in Economics at [Department of Economics](https://www.stonybrook.edu/commcms/economics/), [Stony Brook University](https://www.stonybrook.edu/). My research interests include Innovation, Applied Micro Theory, and Development Economics. I am on the 2025-26 Job Market.
 
 [Curriculum Vitae](/files/SiyuanLyu_CV2025.pdf)
 
-[中文简历/Curriculum Vitae (in Chinese)](/files/CV.docx)
+#[中文简历/Curriculum Vitae (in Chinese)](/files/CV.docx)
 
 Email: [siyuan.lyu@stonybrook.edu](mailto:siyuan.lyu@stonybrook.edu) 
 
