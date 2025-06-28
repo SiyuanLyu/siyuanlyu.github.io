@@ -5,7 +5,7 @@ category: publications
 permalink: /publication/2021-10-greenbond
 excerpt: #'The impacts of COVID-19 on China's green bond market are investigated. COVID-19 has significant impacts on the market and increases the cumulative abnormal return (CAR). The extent of negative impacts depends on issuers’ governance capacity (emp), information asymmetry (InfoAsym) and debt-paying ability (debt-paying).'
 date: 2021-10-01
-venue: 'Finance Research Letters'
+venue: 'Finance Research Letters (*SSCI, JCR Q1*)'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1016/j.frl.2021.101948'
 citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
