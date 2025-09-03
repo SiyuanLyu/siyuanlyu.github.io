@@ -21,7 +21,7 @@ Abstract: The accumulation of knowledge is crucial for the development of scient
 
 Hard Problems: Young Math Talents in the U.S. and Their Choices of Higher Education
 ======
-(Scheduled at *2025 ICEE PSU Altoona, 2026 AEA*)
+(Presented at *2025 ICEE PSU Altoona*, and scheduled at *2026 ASSA*)
 
 <a href="/files/ICEE_presentation_2025.pdf">Slides/a><br>
 
