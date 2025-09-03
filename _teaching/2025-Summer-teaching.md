@@ -14,6 +14,8 @@ This is an online and asynchronous course. Game theory is the study of strategic
 
 [Syllabus](/files/ECO355_AMS335_Syllabus_Summer2025.pdf)
 
+[Course evaluations](/files/2025-Summer-Eval.pdf)
+
 Outline
 ---
 Module 1: Introduction & Rational Behaviors <br>
