@@ -36,14 +36,14 @@ author:
   impactstory      : 
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-7082-1564"
   semantic         : 
-  pubmed           : "https://github.com/SiyuanLyu"
+  pubmed           : 
   researchgate     : 
 
   # Repositories and software development
   bitbucket        : 
   codepen          : 
   dribbble         :
-  github           : #
+  github           : "https://github.com/SiyuanLyu"
   kaggle           :   
   stackoverflow    :    
 
