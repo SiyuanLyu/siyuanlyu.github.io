@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="files/Lyu, Siyuan.Research statement.pdf">Research Statement</a><br>
+<a href="/files/Lyu, Siyuan.Research statement.pdf">Research Statement</a><br>
 {% include base_path %}
 
 Knowledge: Burden or Gift of Innovation? (Job Market Paper)
