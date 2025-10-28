@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="/files/Research Statement.docx">Research Statement</a><br>
+<a href="/files/Lyu, Siyuan.Research statement.docx">Research Statement</a><br>
 {% include base_path %}
 
 Knowledge: Burden or Gift of Innovation? (Job Market Paper)
@@ -28,7 +28,7 @@ Hard Problems: Young Math Talents in the U.S. and Their Choices of Higher Educat
 Abstract: Mathematics competitions like the USA Mathematical Olympiad (USAMO) and the William Lowell Putnam Mathematical Competition (Putnam) are seen as early-stage talent selections, providing winners access to prestigious institutions and career advantages. However, their long-term impact on academic trajectories remains unclear. This study examines whether such competitions effectively predict future academic decisions and how receiving different levels of honors varies in these effects. Using a self-built dataset of USAMO and Putnam awardees from 1985 to 2010, collected through both manual research and automated matching, we are able to analyze
 their higher education results and career paths. Nearly half of the USAMO awardees obtained a Ph.D. in mathematics-related STEM fields such as Pure Math, Applied Math, Physics, Computer Science, and Economics, compared to 58.49% of the Putnam awardees. Besides, 42.86% of the USAMO awardees' current profession positions are professors in colleges, and 20.31% of the Putnam awardees have won at least once NSF research funding, which recognizes their academic performances, relatively. Furthermore, USAMO gold medalists were significantly more likely than Honorable Mention recipients to pursue higher degrees in these fields and remain in academia. While the pattern in Putnam awardees remains, in terms of their absolute performances, that of the relative rankings within colleges is ambiguous.. These results contribute to discussions on talent screening through competitive challenges, suggesting that while high-level mathematics competitions identify strong academic candidates, psychological factors and institutional influences also shape long-term career outcomes.
 
-How does “Green Factory” Certification Influence Firms’ Green Innovation Performances in China? (With *Jiawei Chen* and *Kai Wei*)
+How does “Green Factory” Certification Influence Firms’ Green Innovation Performances in China? (With *Jiawei Chen*, *Jun Ma* and *Kai Wei*)
 ======
 
 *Draft available upon request*
