@@ -24,15 +24,15 @@ author:
   avatar           : "Professional Photoshot.jpg"
   name             : "Siyuan Lyu"
   pronouns         : 
-  bio              : "Ph.D. student of Economics"
+  bio              : "Ph.D. of Economics"
   location         : "New York, USA"
-  employer         : "Stony Brook University"
+  employer         : 
   uri              : https://siyuanlyu.github.io
-  email            : "siyuan.lyu@stonybrook.edu" 
+  email            : "sylyu2026@gmail.com" 
 
   # Academic websites
   arxiv            : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=o-EmLywAAAAJ&hl=en&authuser=1"
   impactstory      : 
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-7082-1564"
   semantic         : 
